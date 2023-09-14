@@ -7,7 +7,7 @@ function App() {
   return (
       <>
        <NavBar/>
-       <div className="container d-flex justify-content-center bg-success text-white " >
+       <div className="container  text-primary" >
        <BookReservation/>
        </div>
      
