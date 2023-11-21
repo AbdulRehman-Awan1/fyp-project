@@ -17,7 +17,7 @@ const BookedReservations = () => {
 
     return (
         <div className="container mt-5">
-            <h2>Booked Reservations</h2>
+            <h2>Booked reservations</h2>
             <table className="table">
                 <thead>
                     <tr>
