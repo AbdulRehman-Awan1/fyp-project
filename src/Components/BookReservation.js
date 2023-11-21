@@ -43,7 +43,7 @@ const BookReservation = () => {
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                opacity: '1.0',
+                opacity: '1.5',
             }}
         >
             <form
